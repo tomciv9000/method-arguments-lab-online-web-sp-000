@@ -1,7 +1,7 @@
 def introduction(name)
-  puts "Hello, #{name}."
+  puts "Hi, my name is #{name}."
 end
 
 def introduction_with_language(name, language)
-  puts "Hello, #{name}, your language is #{language}."
+  puts "Hi, mt name is #{name} and I am learning to program in #{language}."
 end
